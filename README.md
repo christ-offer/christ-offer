@@ -8,6 +8,10 @@ We make websites and stuff. Emphasis on websites, occationally stuff.
 - 🌱 I’m currently learning (sidehustling), in no particular order: htmx, python, rust
 - 📫 How to reach me: Ping me here - I already get to much spam everywhere else. :) 
 
+My repository list is full of abandoned side-projects, feel free to explore. Nothing to exciting going on here yet.
+
+⚡ Fun fact: facts aren't fun.
+
 <!--
 **christ-offer/christ-offer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
