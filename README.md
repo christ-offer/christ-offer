@@ -1,6 +1,6 @@
 ### Hi there 👋
 My name is as implied, Christoffer. I'm a webdev based in Barcelona. 
-I'm currently working at Seam Project Studios, a smol and nice little agency ran by myself and friends. 
+I'm currently working at [Seam Project Studios](https://github.com/seam-project-studios), a smol and nice little agency ran by myself and friends. 
 
 We make websites and stuff.
 
