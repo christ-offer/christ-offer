@@ -1,8 +1,12 @@
 ### Hi there 👋
 My name is as implied, Christoffer. I'm a webdev based in Barcelona. 
-I'm currently working at [Seam Project Studios](https://github.com/seam-project-studios), a smol and nice little agency ran by myself and friends. 
+I'm currently working at [Seam Project Studios](https://github.com/seam-project-studios), a smol and nice little agency ran by some friends and me. 
 
-We make websites and stuff.
+We make websites and stuff. Emphasis on websites, occationally stuff.
+
+- 💾 Our most common tech stack is anything Vue. Often with Nuxt, but anything goes. More often than not with Supabase if we need it.
+- 🌱 I’m currently learning (sidehustling), in no particular order: htmx, python, rust
+- 📫 How to reach me: Ping me here - I already get to much spam everywhere else. :) 
 
 <!--
 **christ-offer/christ-offer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
