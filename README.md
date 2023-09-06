@@ -1,4 +1,5 @@
 ### Hi there 👋
+My name is as implied, Christoffer. I'm a webdev based in Barcelona, currently working at @seam-project-studios
 
 <!--
 **christ-offer/christ-offer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
