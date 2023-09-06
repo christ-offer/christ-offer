@@ -1,5 +1,8 @@
 ### Hi there 👋
-My name is as implied, Christoffer. I'm a webdev based in Barcelona, currently working at @seam-project-studios
+My name is as implied, Christoffer. I'm a webdev based in Barcelona. 
+I'm currently working at Seam Project Studios, a smol and nice little agency ran by myself and friends. 
+
+We make websites and stuff.
 
 <!--
 **christ-offer/christ-offer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
