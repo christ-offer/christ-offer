@@ -13,8 +13,6 @@ My repository list is full of abandoned side-projects, feel free to explore. Not
 
 ⚡ Fun fact: facts aren't fun.
 
-
-  [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=christ-offer&langs_count=5&theme=tokyonight)]()
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=christ-offer&langs_count=5&theme=gruvbox-light.svg" />
 </p>
